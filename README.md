@@ -9,6 +9,7 @@ I am **yashwardhan**, currently a final year B.Tech student at IIT Guwahati. I a
 - 👯 I’m looking to collaborate on web projects involving applications of **machine learning, NLP, smart contracts**. 
 - 🤔 I’m looking for help with **databases and deployments**.
 - 💬 Ask me about **web development, Data structures and algorithms, blockchain**.
-- 📫 How to reach me: https://www.linkedin.com/in/yashwrdhn/, https://leetcode.com/yashwrdhn/
+- 📫 How to reach me: https://www.linkedin.com/in/yashwrdhn/, yss17170803@gmail.com, yssisodia2013@gmail.com.
+- 🌱 places I am active: https://leetcode.com/yashwrdhn/ 
 - ✨ Tech stack I am familiar with: **react.js, express.js, node.js, mongodb, Flask, Django, SQlite, solidity.**  
 
